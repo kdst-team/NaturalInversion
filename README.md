@@ -55,6 +55,6 @@ bash gen_images.sh
 
 - After 2000 iteration, these images should be generated.
 
-![figure/batch2.png](figure/batch2.png)</center>
+![figure/batch2.png](figure/batch2.png){: .center}
 
 
