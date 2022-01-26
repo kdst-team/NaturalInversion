@@ -50,8 +50,10 @@ or **just execute the bash file**
 ```jsx
 bash gen_images.sh
 ```
+- Visualization CIFAR-10 samples with previous works
+![figure/visulaize1.png](figure/visualize1.png)
 
-- after > 2000epochs. These images should be generated.
+- After 2000 iteration, these images should be generated.
 
 ![figure/batch2.png](figure/batch2.png)
 
