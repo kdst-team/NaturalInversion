@@ -53,6 +53,6 @@ bash gen_images.sh
 
 - after > 2000epochs. These images should be generated.
 
-![figure/batch.png](figure/batch.png)
+![figure/result.png](figure/result.png)
 
 
