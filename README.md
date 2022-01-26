@@ -1,6 +1,6 @@
-# Natural Inversion: Data-free Image Synthesis Improving Real-World Consistency
+# Natural Inversion: Data-Free Image Synthesis Improving Real-World Consistency
 
-This repository is the official PyTorch implementation of Natural Inversion.
+This repository is the official PyTorch implementation of Natural Inversion: Data-Free Image Synthesis Improving Real-World Consistency at AAAI-2022.
 
 ![figure/overall.png](figure/overall.png)
 
