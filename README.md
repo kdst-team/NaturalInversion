@@ -53,4 +53,4 @@ bash gen_images.sh
 
 - after > 2000epochs. These images should be generated.
 
-![figure/result.png](figure/result.png)
+![figure/cifar10.pdf](figure/cifar10.pdf)
